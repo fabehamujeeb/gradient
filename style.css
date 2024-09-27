@@ -1,0 +1,26 @@
+/* this is how comments are written */
+.pd {
+    font-family: arial;
+}
+* {
+    font-variant: small-caps
+}
+.pd,
+h1 {
+    font-family: arial;
+}
+.pd,
+h1 {
+    font-style: italic;
+}
+#para {
+    color: maroon
+}
+h1 {
+    color: black
+}
+body {
+    /*background: linear-gradient(grey, rgb(232, 214, 214), rgb(48, 47, 47))*/
+    background: radial-gradient(grey 20%, rgb(232, 214, 214) 40%,
+        rgb(48, 47, 47)) 60% ;
+}
